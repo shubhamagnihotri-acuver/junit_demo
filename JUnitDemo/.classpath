@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="junit_resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Tools/Junit/JMockit_Jar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Junit/JMockit_Jar/testng-6.9.12.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Jars/SterlingJars/xapi.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Jars/SterlingJars/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Jars/SterlingJars/ycdshared.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Junit/JMockit_Jar/xmlunit-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Jars/SterlingJars/scecoreshared.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Jars/SterlingJars/smcfsshared.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Jars/SterlingJars/icu4j-55_1.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Jars/SterlingJars/icu4j-charset-55_1.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Jars/SterlingJars/icu4j-localespi-55_1.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Jars/SterlingJars/install_foundation.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Jars/SterlingJars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Jars/SterlingJars/platform_afc.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Jars/SterlingJars/platform_afc_ui_impl_be.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Jars/SterlingJars/platform_baseutils.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Junit/JMockit_Jar/javax.transaction.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jar_files (6)/org.apache.servicemix.bundles.xalan-2.7.2_2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jar_files (6)/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jar_files (5)/json-20231013.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Junit/New/jmockit-1.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Junit/New/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Junit/New/objenesis-3.3.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Junit/New/spotbugs-annotations-4.8.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

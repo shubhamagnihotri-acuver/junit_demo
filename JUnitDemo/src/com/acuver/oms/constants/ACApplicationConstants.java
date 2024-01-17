@@ -1,0 +1,68 @@
+package com.acuver.oms.constants;
+
+public abstract interface ACApplicationConstants {
+	
+	public static final String ATTR_ORDER_HEADER_KEY = "OrderHeaderKey";
+	public static final String ATTR_ORDER_NO = "OrderNo";
+	public static final String ATTR_ORDER_LINE_KEY = "OrderLineKey";
+	public static final String E_ORDER = "Order";
+	public static final String ATTR_DOCUMENT_TYPE = "DocumentType";
+	public static final String E_COMMON_CODE = "CommonCode";
+	public static final String ATTR_ORG_CODE = "OrganizationCode";
+	public static final String ATTR_CODE_TYPE = "CodeType";
+	public static final String API_GET_COMMON_CODE_LIST = "getCommonCodeList";
+	public static final String ATTR_CODE_SHORT_DESC = "CodeShortDescription";
+    public static final String ATTR_ORGANIZATION_CODE = "OrganizationCode";
+    public static final String API_GET_ORG_LIST = "getOrganizationList";
+    public static final String E_CORPORATE_PERSON_INFO = "CorporatePersonInfo";
+	public static final String ATTR_TYPE = "Type";
+	public static final String ATTR_CODE_VALUE = "CodeValue";
+	public static final String ATTR_CHARGES="Charges";
+	public static final String ATTR_LINE_TOTAL = "LineTotal";
+	public static final String E_LINE_DETAILS="LineDetails";
+	public static final String E_LINE_DETAIL = "LineDetail";
+	public static final String ATTR_EXTENDED_PRICE="ExtendedPrice";
+	public static final String ATTR_CHANGE_IN_LINE_TOTAL="ChangeInLineTotal";
+	public static final String ATTR_TAX="Tax";
+	public static final String NUM_RECORDS_TO_BUFFER="NoOfRecordsToBuffer";
+	public static final String ATTR_MAXIMUM_RECORDS="MaximumRecords";
+	public static final String VAL_AND="AND";
+	public static final String E_AND = "And";
+	public static final String VAL_DATE_TIME_FORMATTER="yyyy-MM-dd'T'HH:mm:ss";
+	public static final String E_ORDER_LINE = "OrderLine";
+	public static final String ATTR_DELIVERY_METHOD = "DeliveryMethod";
+	public static final String VAL_DELIVERY_METHOD_PICK = "PICK";
+	public static final String ATTR_PRIME_LINE_NO = "PrimeLineNo";
+	public static final String ATTR_ORDERED_QTY = "OrderedQty";
+	public static final String E_ITEM = "Item";
+	public static final String ATTR_ITEM_ID = "ItemID";
+	public static final String ATTR_UNIT_OF_MEASURE = "UnitOfMeasure";
+	public static final String VAL_DELIVERY_METHOD_SHP = "SHP";
+	public static final String VAL_Y = "Y";
+	public static final String E_ORDER_LINES = "OrderLines";
+	public static final String API_CHANGE_ORDER = "changeOrder";
+	public static final String ATTR_FEDEX_URL = "FedExWebServiceURL";
+	public static final String ATTR_FEDEX_ACCESS_TOKEN_URL = "FedexAccessTokenURL";
+	public static final String ATTR_FEDEX_API_KEY = "FedexAPIKey";
+	public static final String ATTR_FEDEX_SECRET_KEY = "FedexSecretKey";
+	public static final String JSON_POST_METHOD = "POST";
+	public static final String JSON_CONTENT_TYPE = "Content-Type";
+	public static final String JSON_APPLICATION_JSON = "application/json";
+	public static final String JSON_APPLICATION_URL_ENCODED = "application/x-www-form-urlencoded";
+	public static final String ATTR_AUTHORISATION_WEBSERVICE = "Authorization";
+	public static final String ELE_SHIPMENT = "Shipment";
+	public static final String ATTR_STATUS = "Status";
+	public static final String PACKED_STATUS = "1300";
+	public static final String ATTR_SHIPMENT_KEY = "ShipmentKey";
+	public static final String ATTR_SHIPMENT_NO = "ShipmentNo";
+	public static final String API_CONFIRM_SHIPMENT="confirmShipment";
+	public static final String API_GET_SHIPMENT_LIST = "getShipmentList";
+	public static final String E_CONTAINERS = "Containers";
+	public static final String E_CONTAINER = "Container";
+	public static final String ATTR_SHIPMENT_CONTAINER_KEY = "ShipmentContainerKey";
+	public static final String ATTR_TRACKING_NO = "TrackingNo";
+	public static final String ATTR_SERVICE_TYPE = "ServiceType";
+	public static final String ATTR_FEDEX_TRACKING_URL = "FedExTrackingURL";
+	public static final String ATTR_FEDEX_TRACKINGNO_URL = "FedexTrackingNoURL";
+
+}
